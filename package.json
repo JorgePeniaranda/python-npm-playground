@@ -1,0 +1,22 @@
+{
+  "name": "python-npm-playground",
+  "version": "1.0.0",
+  "description": "Python playground with npm",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py",
+    "dev": "nodemon --exec python main.py --ext py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JorgePeniaranda/python-npm-playground"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "Jorge Peñaranda",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "3.1.9"
+  }
+}

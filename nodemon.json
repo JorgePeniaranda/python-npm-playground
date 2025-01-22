@@ -1,0 +1,7 @@
+{
+  "restartable": "rs",
+  "ignore": ["node_modules/**", ".git/**"],
+  "watch": ["."],
+  "ext": "py",
+  "exec": "python app.py"
+}
