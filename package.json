@@ -5,7 +5,7 @@
   "main": "main.py",
   "scripts": {
     "start": "python main.py",
-    "dev": "nodemon --exec python main.py --ext py"
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",

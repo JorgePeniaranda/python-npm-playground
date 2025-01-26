@@ -1,7 +1,7 @@
 {
   "restartable": "rs",
   "ignore": ["node_modules/**", ".git/**"],
-  "watch": ["."],
+  "watch": ["main.py"],
   "ext": "py",
-  "exec": "python app.py"
+  "exec": "python main.py"
 }
